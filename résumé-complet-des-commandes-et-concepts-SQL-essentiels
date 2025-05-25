@@ -1,6 +1,4 @@
-Voici un **résumé complet des commandes et concepts SQL essentiels** pour la gestion des bases de données, que ce soit pour modifier, ajouter, supprimer des tables/colonnes, ou créer des conditions. Ce guide couvre les syntaxes clés, les bonnes pratiques et les pièges à éviter.
 
----
 
 ### **1. Gestion des Tables (DDL - Langage de Définition de Données)**
 #### **Créer une table**
@@ -198,6 +196,4 @@ HAVING AVG(Salaire) > 4000;
 | Regrouper des données  | `GROUP BY`                       |
 | Contraintes            | `PRIMARY KEY`, `FOREIGN KEY`, `CHECK`, `UNIQUE` |
 
----
 
-Souhaites-tu un exercice pratique pour appliquer ces concepts ? 😊
